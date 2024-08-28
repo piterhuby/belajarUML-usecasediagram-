@@ -1,0 +1,18 @@
+@startuml
+actor user
+actor admin 
+
+user -> (login)
+user -> (browser product)
+user -> (place order)
+user -> (view order)
+
+admin -> (login)
+admin -> (manage product)
+admin -> (view sales report)
+admin -> (manage order)
+
+(login) .> (browser product):<<include>>
+(place order) .> (view order history):<<include>>
+
+@enduml
