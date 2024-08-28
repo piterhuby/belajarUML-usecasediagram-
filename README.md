@@ -1,0 +1,2 @@
+ini adalah contoh usecase diagram
+![ROxH2eCm34NV-nLvt1xc1mmHVoLhWokaZQJfP7y_P8eMV4lFvPxUiHYgrSGElOb2BQJRYI753Cwj21u3t5YccE_7-wMohFUi4ggtKp8pUWBHG7gYdqZB3jtVVj8U8676YGxjdco6Wam5b6PHkwZj7snUw2wMFli-Piyrq32uPYrqpL1unsAYtxRXHigX9l](https://github.com/user-attachments/assets/6fae899e-0e0a-4a77-aa75-b3393e9a10de)
